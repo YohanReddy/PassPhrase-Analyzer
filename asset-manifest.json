@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YohanReddy/PassPhrase-Analyzer/static/css/main.9c93b6e4.css",
+    "main.js": "/YohanReddy/PassPhrase-Analyzer/static/js/main.19d04f83.js",
+    "index.html": "/YohanReddy/PassPhrase-Analyzer/index.html",
+    "main.9c93b6e4.css.map": "/YohanReddy/PassPhrase-Analyzer/static/css/main.9c93b6e4.css.map",
+    "main.19d04f83.js.map": "/YohanReddy/PassPhrase-Analyzer/static/js/main.19d04f83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c93b6e4.css",
+    "static/js/main.19d04f83.js"
+  ]
+}
