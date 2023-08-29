@@ -20,7 +20,7 @@ PassPhrase-Analyzer is a user-friendly tool developed using HTML, CSS, and JavaS
 
 ## How to Use
 
-1. **Access the App:** Simply open your web browser and navigate to the PassPhrase-Analyzer web app.
+1. **Access the App:** Simply open your web browser and navigate to the [PassPhrase-Analyzer](https://password-html.netlify.app) web app.
 
 2. **Enter Your Password:** In the designated input field, type or paste the password you want to assess.
 
