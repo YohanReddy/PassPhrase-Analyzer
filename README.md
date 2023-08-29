@@ -44,7 +44,7 @@ PassPhrase-Analyzer is a user-friendly tool developed using HTML, CSS, and JavaS
 
 ## Contribution and Feedback
 
-PassPhrase-Analyzer is an open-source project, and we welcome contributions from the community. If you have ideas for improvements, new features, or encounter any issues, please feel free to [create an issue](link-to-issue-tracker) or submit a pull request.
+PassPhrase-Analyzer is an open-source project, and we welcome contributions from the community. If you have ideas for improvements, new features, or encounter any issues, please feel free to [create an issue](https://github.com/YohanReddy/PassPhrase-Analyzer/issues/new) or submit a pull request.
 
 Your feedback is invaluable to us as we continue to refine and expand the capabilities of PassPhrase-Analyzer.
 
